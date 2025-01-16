@@ -1,6 +1,6 @@
 //shashiverm
 //replce with you api
-const API_KEY = '9fba39eeea2941eb1bb52429f8cf5937';
+const API_KEY = '';
 
 // Get the necessary DOM elements
 const cityInput = document.getElementById('city-input');
